@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="92">
+<site-list version="93">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12891,6 +12891,9 @@
   <site url="mtwhitestoness.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="muchloved.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mudgeerabacreekss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -17581,6 +17584,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="svt.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="svy.ooo">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="swaeboy.ru">
