@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="94">
+<site-list version="95">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2032,6 +2032,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="blackbuttss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="blackdesert.pearlabyss.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="blackhats.co.kr">
@@ -17406,6 +17409,9 @@
   <site url="store.my.games">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="store.pearlabyss.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="store.wework.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19066,6 +19072,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="urbanapes.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="urssaf.fr">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="us.castlighthealth.com">
